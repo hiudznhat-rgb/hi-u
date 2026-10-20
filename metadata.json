@@ -1,0 +1,6 @@
+{
+  "name": "Khai Trí Books - Hiệu Sách Trực Tuyến",
+  "description": "Tiệm sách trực tuyến tuyển chọn tinh hoa văn học, triết học, nghệ thuật và khoa học. Đọc trích đoạn, đặt sách và giao hàng nhanh toàn quốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
